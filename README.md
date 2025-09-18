@@ -21,7 +21,7 @@ Mục tiêu: Dự đoán chính xác chỉ số chất lượng nước (WQI) d�
 Hệ số R² ≈ 0.982, nghĩa là các thông số đầu vào giải thích được 98.2% sự thay đổi của WQI.
 
 2. Mô hình Học sâu - Keras (Dự đoán chỉ số WQI)
-Mục tiêu: Dùng mạng нейрон nhân tạo để dự đoán chỉ số WQI.
+Mục tiêu: Dùng mạng nơ-ron nhân tạo để dự đoán chỉ số WQI.
 
 3. Mô hình Hồi quy Logistic (Phân loại chất lượng nước)
 Mục tiêu: Phân loại nước vào các nhóm như "Tốt", "Kém", hay "Rất Kém".
