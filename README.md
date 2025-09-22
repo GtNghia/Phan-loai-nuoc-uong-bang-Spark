@@ -1,7 +1,7 @@
 Dự đoán Chất lượng Nước (Water Quality Prediction)
 Dự án này sử dụng các kỹ thuật học máy và học sâu với Apache Spark để dự đoán Chỉ số Chất lượng Nước (Water Quality Index – WQI) và phân loại trạng thái chất lượng nước dựa trên các thông số.
 
-I. Mục đích dự án
+# I. MỤC ĐÍCH DỰ ÁN
 
   Nước là một tài nguyên thiết yếu nhưng đang bị đe dọa bởi ô nhiễm. Việc giám sát và đánh giá chất lượng nước là rất quan trọng để bảo vệ sức khỏe cộng đồng và môi trường. Dự án này xây dựng các mô hình dự đoán nhằm tự động đánh giá chất lượng nước, giúp đưa ra các cảnh báo và hỗ trợ việc ra quyết định.
 
@@ -13,7 +13,7 @@ Dữ liệu:
 
 
 
-II. Kết quả các mô hình 
+# II. KẾT QUẢ CÁC MÔ HÌNH
 
 1. Mô hình Hồi quy Tuyến tính (Dự đoán chỉ số WQI)
 Mục tiêu: Dự đoán chính xác chỉ số chất lượng nước (WQI) dưới dạng một con số.
